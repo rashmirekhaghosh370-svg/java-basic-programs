@@ -16,4 +16,4 @@ public class DataTypeDemo {
         System.out.println("Boolean Value: " + isJavaFun);
         System.out.println("String Value: " + name);
     }
-}
+}           
